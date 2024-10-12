@@ -32,7 +32,7 @@ another line
 
 - первый пункт ненумерованного списка;
 - второй пункт ненумерованного списка 
-[Яндекс](https://www.ihaveballs.ru "yes")
+[nice site](https://www.ihaveballs.ru "yes")
 
 ```bash
 ls - la
