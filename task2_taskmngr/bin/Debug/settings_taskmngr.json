@@ -1,0 +1,26 @@
+[
+  {
+    "monitoring_logs_size": 10,
+    "dashboard_chart_type": 3,
+    "dashboard_color_1": -65536,
+    "dashboard_color_2": 16777215
+  },
+  {
+    "monitoring_logs_size": 10,
+    "dashboard_chart_type": 3,
+    "dashboard_color_1": -65536,
+    "dashboard_color_2": 16777215
+  },
+  {
+    "monitoring_logs_size": 10,
+    "dashboard_chart_type": 3,
+    "dashboard_color_1": -65536,
+    "dashboard_color_2": 16777215
+  },
+  {
+    "monitoring_logs_size": 0,
+    "dashboard_chart_type": 17,
+    "dashboard_color_1": -7063020,
+    "dashboard_color_2": -40427
+  }
+]

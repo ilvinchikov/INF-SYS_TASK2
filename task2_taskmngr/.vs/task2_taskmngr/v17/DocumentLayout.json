@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\formapparat_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:formapparat_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\formsettings_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:formsettings_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\formsettings_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:formsettings_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\classsettingsprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:classsettingsprogramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\classsettingsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:classsettingsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\formapparat_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:formapparat_02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|e:\\inf-systems\\proj2\\task2_taskmngr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5EBBE7AE-9533-49C9-8E4B-599ED410F59C}|task2_taskmngr.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -17,33 +41,117 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 341,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAwwHYAAAA3AAAA",
+              "DocumentIndex": 2,
+              "Title": "FormSettings_03.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormSettings_03.cs",
+              "RelativeDocumentMoniker": "FormSettings_03.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormSettings_03.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormSettings_03.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T07:33:57.097Z",
+              "WhenOpened": "2024-11-07T11:28:53.726Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassSettingsProgramm.cs",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\ClassSettingsProgramm.cs",
+              "RelativeDocumentMoniker": "ClassSettingsProgramm.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\ClassSettingsProgramm.cs",
+              "RelativeToolTip": "ClassSettingsProgramm.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwGcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:26:45.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassSettingsProgram.cs",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\ClassSettingsProgram.cs",
+              "RelativeDocumentMoniker": "ClassSettingsProgram.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\ClassSettingsProgram.cs",
+              "RelativeToolTip": "ClassSettingsProgram.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAgwF8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:24:40.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormSettings_03.cs",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormSettings_03.cs",
+              "RelativeDocumentMoniker": "FormSettings_03.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormSettings_03.cs",
+              "RelativeToolTip": "FormSettings_03.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwHEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:24:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormApparat_02.cs",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormApparat_02.cs",
+              "RelativeDocumentMoniker": "FormApparat_02.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormApparat_02.cs",
+              "RelativeToolTip": "FormApparat_02.cs",
+              "ViewState": "AQIAACEBAAAAAAAAAAAawCEBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:59:59.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormApparat_02.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormApparat_02.cs",
+              "RelativeDocumentMoniker": "FormApparat_02.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\FormApparat_02.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormApparat_02.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:59:55.429Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:33:57.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\INF-SYSTEMS\\proj2\\task2_taskmngr\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T07:28:57.769Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-10-12T07:28:57.769Z"
             }
           ]
         }
